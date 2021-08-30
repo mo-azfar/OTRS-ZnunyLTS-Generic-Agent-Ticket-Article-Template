@@ -14,6 +14,6 @@ Generic Agent Required Parameter:
 [![1.png](https://i.postimg.cc/nc93YY00/1.png)](https://postimg.cc/zV5wqWmg)  
 
 Walkthrough video:  
-[![YOUTUBE VIDEO](https://img.youtube.com/vi/c1CXv1mRzTk/0.jpg)](https://www.youtube.com/watch?v=ClsvUka4Tk)  
+[![YOUTUBE VIDEO](https://img.youtube.com/vi/c1CXv1mRzTk/0.jpg)](https://www.youtube.com/watch?v=c1CXv1mRzTk)  
 
         
