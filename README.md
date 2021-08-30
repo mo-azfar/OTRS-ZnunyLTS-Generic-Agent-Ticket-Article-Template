@@ -10,6 +10,10 @@ Generic Agent Required Parameter:
     SubjectText: This is article subject
     TemplateID: Ticket TemplateID (Admin > Templates). Expecting value: ID of the template.
     CustomerVisibility: Determine if article should be visible to customer portal. Expecting value: Yes / No.
-        
+    
+[![1.png](https://i.postimg.cc/nc93YY00/1.png)](https://postimg.cc/zV5wqWmg)  
+
+Walkthrough video:  
+[![YOUTUBE VIDEO](https://img.youtube.com/vi/c1CXv1mRzTk/0.jpg)](https://www.youtube.com/watch?v=ClsvUka4Tk)  
 
         
