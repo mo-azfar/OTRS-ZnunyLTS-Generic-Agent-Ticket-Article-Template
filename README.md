@@ -6,10 +6,10 @@
 
 Required Parameter:  
         
-        Module: Kernel::System::Ticket::Event::TicketArticleTemplate
-        SubjectText: This is article subject
-        TemplateID: Ticket TemplateID (Admin > Templates). Expecting value: ID of the template.
-        CustomerVisibility: Determine if article should be visible to customer portal. Expecting value: Yes / No.
+    Module: Kernel::System::Ticket::Event::TicketArticleTemplate
+    SubjectText: This is article subject
+    TemplateID: Ticket TemplateID (Admin > Templates). Expecting value: ID of the template.
+    CustomerVisibility: Determine if article should be visible to customer portal. Expecting value: Yes / No.
         
 
         
