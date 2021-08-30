@@ -5,7 +5,7 @@
 # the enclosed file COPYING for license information (GPL). If you
 # did not receive this file, see https://www.gnu.org/licenses/gpl-3.0.txt.
 # --
-# Generic Agent module that add article to ticket using existing ticket template function. (which are suporting html)
+# Generic Agent custom module that add article to ticket using existing ticket template function. (which are suporting html)
 
 package Kernel::System::Ticket::Event::TicketArticleTemplate;
 
